@@ -1,4 +1,4 @@
-### Tjena! I'm Teo! 👋
+### Hi! I'm Teo! 👋
 I'm a 18-year-old computer science nerd.
 
 I do a bit of everything, I've done everything from discord bots to Minecraft Mods.
